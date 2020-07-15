@@ -2,7 +2,7 @@
 
 ## Repositorio personal con el código de algunos de mis proyectos.
 
-> Amante de GNU/Linux y el Software Linux. Apasionado de la Programación y del mundo Web, en especial de WordPress. Experto en la docencia. del Ajedrez.
+Amante de GNU/Linux y el Software Linux. Apasionado de la Programación y del mundo Web, en especial de WordPress. Experto en la docencia del Ajedrez.
 
 ## En donde me podéis encontrar:
 
