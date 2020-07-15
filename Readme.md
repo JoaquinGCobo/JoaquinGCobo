@@ -6,6 +6,8 @@
 
 ### Experto en la docencia del Ajedrez.
 
+## En donde me podéis encontrar:
+
 - Página Personal : https://joaquin.com.es
 - Proyecto con mucho mimo : https://soloebooks.es
 
