@@ -7,7 +7,7 @@
 ### Experto en la docencia del Ajedrez.
 
 - Página Personal : https://joaquin.com.es
-- Proyecto con muncho mimo : https://soloebooks.es
+- Proyecto con mucho mimo : https://soloebooks.es
 
 ## Mis redes sociales:
 - Twitter: https://twitter.com/jgcobo
