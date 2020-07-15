@@ -10,9 +10,9 @@ Amante de GNU/Linux y el Software Linux. Apasionado de la Programación y del mu
 - Proyecto con mucho mimo : https://soloebooks.es
 
 ## Mis redes sociales:
-- Twitter: https://twitter.com/jgcobo
-- LinkedIn: https://www.linkedin.com/in/jgcobo
-- Instagram: https://www.instagram.com/onlyebooks/
+- **Twitter:** https://twitter.com/jgcobo
+- **LinkedIn:** https://www.linkedin.com/in/jgcobo
+- **Instagram:** https://www.instagram.com/onlyebooks/
 
 ## Contacto:
  - :email: joaquingarcia.contacto@gmail.com
