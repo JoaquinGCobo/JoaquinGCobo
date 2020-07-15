@@ -1,6 +1,6 @@
-# Joaquín García Cobo :pencil:
+# :pencil: Joaquín García Cobo :pencil:
 
-## Repositorio oficial con el código de algunos de mis proyectos.
+## Repositorio personal con el código de algunos de mis proyectos.
 
 ### Amante de GNU/Linux y el Software Linux. Apasionado de la Programación y del mundo Web, en especial de WordPress. 
 
@@ -10,9 +10,9 @@
 - Proyecto con muncho mimo : https://soloebooks.es
 
 ## Mis redes sociales:
--
--
--
+- Twitter: https://twitter.com/jgcobo
+- LinkedIn: https://www.linkedin.com/in/jgcobo
+- Instagram: https://www.instagram.com/onlyebooks/
 
 ## Contacto:
  - :email: joaquingarcia.contacto@gmail.com
